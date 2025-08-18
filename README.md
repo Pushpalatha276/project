@@ -27,3 +27,8 @@ It is designed to run on **Raspberry Pi** and can be configured to start automat
 ---
 
 ## 📂 Project Structure
+project/
+ ├── final_code.py     # Project code
+ ├── ai.jpeg           # Demo image / screenshot
+ └── README.md         # Project details
+
