@@ -30,5 +30,6 @@ It is designed to run on **Raspberry Pi** and can be configured to start automat
 project/
  ├── final_code.py     # Project code
  ├── ai.jpeg           # Demo image / screenshot
+ ├── requirements.txt # Dependencies
  └── README.md         # Project details
 
