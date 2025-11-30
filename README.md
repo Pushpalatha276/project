@@ -1,22 +1,22 @@
 # 🗣️ Voice-based Chatbot using Python  
 
-## 📖 Overview
+##  Overview
 This project is a **voice-enabled chatbot** built in Python.  
 It listens to the user's speech, converts it to text, fetches information from **Wikipedia**, and responds back with **text-to-speech**.  
 It is designed to run on **Raspberry Pi** and can be configured to start automatically at boot.  
 
 ---
 
-## 🚀 Features
-- 🎙️ **Speech Recognition** – Converts voice to text using Google Speech Recognition API  
-- 🔎 **Wikipedia Integration** – Fetches instant answers from Wikipedia  
-- 🗣️ **Text-to-Speech (TTS)** – Responds with human-like voice using pyttsx3  
-- 🖥️ **Autostart on Raspberry Pi** – Runs at boot using `.bashrc` file  
-- ❌ **Exit Command** – Say `exit` to stop the chatbot  
+##  Features
+-  **Speech Recognition** – Converts voice to text using Google Speech Recognition API  
+-  **Wikipedia Integration** – Fetches instant answers from Wikipedia  
+-  **Text-to-Speech (TTS)** – Responds with human-like voice using pyttsx3  
+-  **Autostart on Raspberry Pi** – Runs at boot using `.bashrc` file  
+-  **Exit Command** – Say `exit` to stop the chatbot  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Programming Language**: Python 3  
 - **Libraries Used**:  
   - `speech_recognition` – for speech-to-text  
@@ -26,10 +26,4 @@ It is designed to run on **Raspberry Pi** and can be configured to start automat
 
 ---
 
-## 📂 Project Structure
-project/
- ├── final_code.py     # Project code
- ├── ai.jpeg           # Demo image / screenshot
- ├── requirements.txt # Dependencies
- └── README.md         # Project details
 
